@@ -1,0 +1,8 @@
+All models are mit licensed and currently copyright of adakkak
+
+Once I start creating new models, I will denote who owns what.
+
+I am comitting to keeping all models under this this project mit, unless explicitly labeled otherwise.
+
+The point of this repo is to show off what Ruby X3D aka Relax3D can do. Since I am turing that into a ruby gem, i didn't want to waste bandwidth and disk storage on packing examples with it.
+
